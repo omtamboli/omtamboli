@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/omtamboli10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omtamboli10" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/om-tamboli-691356202?originalsubdomain=in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/om-tamboli-691356202?originalsubdomain=in" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/om-tamboli-691356202?originalsubdomain=in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omtamboli" height="30" width="40" /></a>
 <a href="https://instagram.com/https://t.co/mytw89mmxq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://t.co/mytw89mmxq" height="30" width="40" /></a>
 </p>
 
